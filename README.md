@@ -36,8 +36,8 @@ To generate personalized, AI-driven recommendations.
 
 #### 4. Data Visualization and Insights:
    The application incorporates advanced visualization plots to present energy consumption data in an intuitive and actionable manner. These visualizations include graphs and charts that help users easily understand their energy usage patterns, identify trends, and assess the impact of their energy-saving actions. 
-   ![data_bus](4.jpg)
-   ![data_bus](5.jpg)
+   ![data_bus](images/4.jpg)
+   ![data_bus](images/5.jpg)
 
 #### 5. Interactive User Interface
    The user-friendly web interface developed with Streamlit allows users to view data, receive insights, and track energy usage. The integrated chatbot offers real-time support, guiding users through the process of implementing energy-saving measures.
