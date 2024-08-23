@@ -11,7 +11,7 @@ This application empowers homeowners with actionable insights and recommendation
 #### 1. Data Collection
    The application gathers detailed information from smart home devices, including appliance features, real-time energy consumption, and user preferences. 
    This data is crucial for assessing energy efficiency and identifying optimization opportunities.
-   ![data_collection](1.jpg)
+   ![data_collection](images/1.jpg)
 
 #### 2. Sustainability Evaluation
    Using advanced machine learning models, the application analyzes usage patterns and assesses each device's efficiency. It predicts whether a device is operating efficiently or contributing to energy waste, continuously improving its predictions over time.
@@ -31,8 +31,8 @@ To chain together different LLM (Large Language Model) operations.
 * Google PaLM API: 
 To generate personalized, AI-driven recommendations.
 
-![suggestions](2.jpg)
-![suggestion_heat](3.jpg)
+![suggestions](images/2.jpg)
+![suggestion_heat](images/3.jpg)
 
 #### 4. Data Visualization and Insights:
    The application incorporates advanced visualization plots to present energy consumption data in an intuitive and actionable manner. These visualizations include graphs and charts that help users easily understand their energy usage patterns, identify trends, and assess the impact of their energy-saving actions. 
